@@ -143,7 +143,7 @@ Use SHAP or LIME for model explainability.
 
 ## 👩‍💻 Author
 
-**Prasansa Vanjari**  
+**Prashnsa Vanjari**  
 Developed as part of a certification course project on machine learning and data analytics.  
 This repository demonstrates an end-to-end workflow for loan default prediction using Logistic Regression.
 
@@ -156,4 +156,5 @@ See the [LICENSE](LICENSE) file for the complete license text.
 
 > **Educational Disclaimer:**  
 > This project was developed as part of an academic certification course and is intended **solely for educational and learning purposes**.  
+
 > The dataset used is **publicly available**, and this work is **not intended for commercial use**.
