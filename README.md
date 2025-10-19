@@ -154,7 +154,13 @@ This repository demonstrates an end-to-end workflow for loan default prediction 
 This project is licensed under the terms of the **MIT License**.  
 See the [LICENSE](LICENSE) file for the complete license text.
 
+## Dataset
+The full dataset is stored externally due to GitHub’s size limit.  
+📂 [Download Dataset Here](https://drive.google.com/file/d/1d5c1talnwCp5a_FR1CMG82n-HAZbZW5h/view?usp=drive_link)
+
+
 > **Educational Disclaimer:**  
 > This project was developed as part of an academic certification course and is intended **solely for educational and learning purposes**.  
 
 > The dataset used is **publicly available**, and this work is **not intended for commercial use**.
+
